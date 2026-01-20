@@ -1,4 +1,4 @@
-# qts
+# Quantitative Trading Strategies
 
 This repository contains exploratory quantitative trading and strategy research, with a focus on futures and crypto markets.
 
